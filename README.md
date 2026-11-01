@@ -46,4 +46,4 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · SciPy · J
 ## Author
 
 **Tanushri Sapate**  
-B.Tech CSE (AI & ML) · Section B-B4 · Roll No. 55
+B.Tech CSE (AI & ML) · Section B-B3 · Roll No. 44
